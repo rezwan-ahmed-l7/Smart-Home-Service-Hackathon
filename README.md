@@ -290,7 +290,7 @@ Built as a hackathon MVP within a tight timeframe — next steps if taken furthe
 | --- | --- |
 | **[Rezwan Ahmed](https://github.com/rezwan-ahmed-l7)** — Team Lead | UI/UX, Core Development, Architecture |
 | **[Mahathir Mohammad](https://github.com/mahathirmohammad842-coder)** | UI/UX, Frontend Components |
-| **[Mubasser Khuku](https://github.com/Mubasserakhuku)** | Features, Testing, Documentation |
+| **[Mubassera Khuku](https://github.com/Mubasserakhuku)** | Features, Testing, Documentation |
 
 ---
 
